@@ -1,32 +1,8 @@
-# Prerequisites
-*.d
+#iostream
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+int c=1;
 
-# Precompiled Headers
-*.gch
-*.pch
+cout:<<"c";
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
+end
 
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
